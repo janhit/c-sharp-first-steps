@@ -104,3 +104,27 @@ int score = 5000;
 */
 string dbResponse = "true";
 // TODO: Your code here
+
+
+//EXERCISE SOLUTIONS:
+// Task 1 Solution:
+int age = int.Parse(inputAge);
+age += 10;
+Console.WriteLine("In 10 years, you will be: " + age);
+
+// Task 2 Solution:
+int displayedXP = (int)exactXP; // Casting truncates the decimal part
+Console.WriteLine("Displayed XP (after casting): " + displayedXP); // Output: 1500  
+
+// Task 3 Solution:
+int roundedPrice = Convert.ToInt32(price); // Convert rounds the number
+Console.WriteLine("Rounded Price (after Convert): " + roundedPrice); // Output: 20  
+
+// Task 4 Solution:
+string scoreText = "Current Score: " + score.ToString();
+Console.WriteLine(scoreText); // Output: Current Score: 5000    
+
+// Task 5 Solution:
+bool isAdmin = Convert.ToBoolean(dbResponse);
+Console.WriteLine("Is Admin: " + isAdmin); // Output: Is Admin: True    
+

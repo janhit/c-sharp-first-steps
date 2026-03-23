@@ -1,0 +1,15 @@
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/bin/Debug/net8.0/module01-datatypes
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/bin/Debug/net8.0/module01-datatypes.deps.json
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/bin/Debug/net8.0/module01-datatypes.runtimeconfig.json
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/bin/Debug/net8.0/module01-datatypes.dll
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/bin/Debug/net8.0/module01-datatypes.pdb
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.AssemblyInfoInputs.cache
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.AssemblyInfo.cs
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.csproj.CoreCompileInputs.cache
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.sourcelink.json
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.dll
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/refint/module01-datatypes.dll
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.pdb
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/module01-datatypes.genruntimeconfig.cache
+/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/obj/Debug/net8.0/ref/module01-datatypes.dll
