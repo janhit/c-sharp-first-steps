@@ -74,6 +74,7 @@ bool hasSpecialItem = false; // Inventory check
 */
 string inputAge = "15";
 // TODO: Your code here
+Console.WriteLine(Convert.ToInt32(inputAge)+ 10);
 
 /* * Task 2: The "Experience Points" Display (Casting)
 * -> You have 1500.99 XP. Your UI can only show whole numbers.
@@ -82,6 +83,7 @@ string inputAge = "15";
 */
 double exactXP = 1500.99;
 // TODO: Your code here
+Console.WriteLine(Math.Round(exactXP));
 
 /* * Task 3: The "Smart Shop" Rounding (Convert)
 * -> A price is 19.50. Use Convert.ToInt32() to turn it into an integer.
@@ -89,7 +91,7 @@ double exactXP = 1500.99;
 */
 double price = 19.50;
 // TODO: Your code here
-
+Console.WriteLine(Convert.ToInt32(price));
 /* * Task 4: The "Scoreboard" (ToString)
 * -> You have a score of 5000 points. 
 * Create a string that says: "Current Score: 5000".
@@ -97,6 +99,7 @@ double price = 19.50;
 */
 int score = 5000;
 // TODO: Your code here
+Console.WriteLine($"Current Score: {score}");
 
 /* * Task 5: The "Admin Check" (Convert to Bool)
 * -> You received the text "true" from a database.
@@ -104,27 +107,4 @@ int score = 5000;
 */
 string dbResponse = "true";
 // TODO: Your code here
-
-
-//EXERCISE SOLUTIONS:
-// Task 1 Solution:
-int age = int.Parse(inputAge);
-age += 10;
-Console.WriteLine("In 10 years, you will be: " + age);
-
-// Task 2 Solution:
-int displayedXP = (int)exactXP; // Casting truncates the decimal part
-Console.WriteLine("Displayed XP (after casting): " + displayedXP); // Output: 1500  
-
-// Task 3 Solution:
-int roundedPrice = Convert.ToInt32(price); // Convert rounds the number
-Console.WriteLine("Rounded Price (after Convert): " + roundedPrice); // Output: 20  
-
-// Task 4 Solution:
-string scoreText = "Current Score: " + score.ToString();
-Console.WriteLine(scoreText); // Output: Current Score: 5000    
-
-// Task 5 Solution:
-bool isAdmin = Convert.ToBoolean(dbResponse);
-Console.WriteLine("Is Admin: " + isAdmin); // Output: Is Admin: True    
-
+Console.WriteLine(Convert.ToBoolean(dbResponse));

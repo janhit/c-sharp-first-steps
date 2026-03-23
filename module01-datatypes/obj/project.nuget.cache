@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "+jcEcrEOX6pLRoKMWXCVibT8DpkV13tIPbKwkKZmrJ1TilHc2Bw4i1stnirSkVy5yMNDmPX2+VjptapkdxLBtQ==",
+  "dgSpecHash": "/j0MIP5HPhY=",
   "success": true,
-  "projectFilePath": "/home/janhittig/Nextcloud/Meine Dateien/Privat/C#-Programmierung/c-sharp-first-steps/module01-datatypes/module01-datatypes.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\S84700\\RiderProjects\\my\\module01-datatypes\\module01-datatypes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\S84700\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.25\\microsoft.netcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\S84700\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.25\\microsoft.windowsdesktop.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\S84700\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.25\\microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512",
+    "C:\\Users\\S84700\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.25\\microsoft.netcore.app.host.win-x64.8.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
